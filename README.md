@@ -5,7 +5,11 @@
 1. Install torch
 
 ````
-pip install 
+pip install pytorch
+pip install scikit-learn
+pip install numpy
+pip install loguru
+pip install rsa
 ````
 
 2. Install CharmCrypt
