@@ -2,7 +2,7 @@
 
 ## Requirenmnets
 
-1. Install related libraries such as torch
+1. Install related libraries
 
 ````
 pip install pytorch
